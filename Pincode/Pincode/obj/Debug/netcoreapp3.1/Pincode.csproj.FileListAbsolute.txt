@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Pincode\Pincode\bin\Debug\netcoreapp3.1\Pincode.exe
+C:\Users\User\Desktop\Pincode\Pincode\bin\Debug\netcoreapp3.1\Pincode.deps.json
+C:\Users\User\Desktop\Pincode\Pincode\bin\Debug\netcoreapp3.1\Pincode.runtimeconfig.json
+C:\Users\User\Desktop\Pincode\Pincode\bin\Debug\netcoreapp3.1\Pincode.runtimeconfig.dev.json
+C:\Users\User\Desktop\Pincode\Pincode\bin\Debug\netcoreapp3.1\Pincode.dll
+C:\Users\User\Desktop\Pincode\Pincode\bin\Debug\netcoreapp3.1\Pincode.pdb
+C:\Users\User\Desktop\Pincode\Pincode\obj\Debug\netcoreapp3.1\Pincode.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Pincode\Pincode\obj\Debug\netcoreapp3.1\Pincode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Pincode\Pincode\obj\Debug\netcoreapp3.1\Pincode.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Pincode\Pincode\obj\Debug\netcoreapp3.1\Pincode.AssemblyInfo.cs
+C:\Users\User\Desktop\Pincode\Pincode\obj\Debug\netcoreapp3.1\Pincode.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Pincode\Pincode\obj\Debug\netcoreapp3.1\Pincode.dll
+C:\Users\User\Desktop\Pincode\Pincode\obj\Debug\netcoreapp3.1\Pincode.pdb
+C:\Users\User\Desktop\Pincode\Pincode\obj\Debug\netcoreapp3.1\Pincode.genruntimeconfig.cache
